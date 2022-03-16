@@ -4,13 +4,19 @@
       "id": 3,
       "text": "Food Shipping",
       "day": "Feb 5th at 2:30pm",
-      "reminder": "false"
+      "reminder": true
     },
     {
       "text": "Take Rails Test",
       "day": "Thursday",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Take Node test",
+      "day": "Tuesday",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
